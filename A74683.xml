@@ -1,0 +1,207 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon called A vvife mistaken, or a wife and no wife : or Leah in stead of Rachel; a sermon accused for railing against women; for maintaining polygamie, many wives, for calling Iacob a hocus-pocus. A sermon laught at more than a play (by the ignorant) for many such mistakes : justified by the wise. Wisedome is iustified of her children. / By Tho. Grantham M. Art. curate of High Barnet neer London, invenies aliquem -</title>
+            <author>Grantham, Thomas, d. 1664.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 28 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74683</idno>
+            <idno type="STC">Thomason E172_19</idno>
+            <idno type="EEBO-CITATION">99860406</idno>
+            <idno type="PROQUEST">99860406</idno>
+            <idno type="VID">112526</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A74683)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112526)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 30:E172[19])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon called A vvife mistaken, or a wife and no wife : or Leah in stead of Rachel; a sermon accused for railing against women; for maintaining polygamie, many wives, for calling Iacob a hocus-pocus. A sermon laught at more than a play (by the ignorant) for many such mistakes : justified by the wise. Wisedome is iustified of her children. / By Tho. Grantham M. Art. curate of High Barnet neer London, invenies aliquem -</title>
+                  <author>Grantham, Thomas, d. 1664.</author>
+               </titleStmt>
+               <extent>[4], 12 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed, 1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Genesis XXIX, 25 --  Sermons --  Early works to 1800.</term>
+               <term>Marriage --  Sermons --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:112526:1" rendition="simple:additions"/>
+            <p>A Marriage Sermon.</p>
+            <p>A SERMON CALLED A VVife miſtaken, or a Wife and no Wife: or <hi>Leah</hi> in ſtead of <hi>Rachel;</hi> A Sermon accuſed for Railing againſt Women; for maintaining Polygamie, many Wives, for calling <hi>Iacob</hi> a <hi>Hocus-Pocus.</hi>
+            </p>
+            <p>A Sermon laught at more than a Play (by the Ignorant) for many ſuch miſtakes: Juſtified by the Wife. <hi>Wiſedome is Iuſtified of her Children.</hi>
+            </p>
+            <p>By <hi>Tho. Grantham</hi> M. <hi>Art.</hi> Curate of <hi>High Barnet</hi> neer <hi>London,</hi>
+            </p>
+            <q xml:lang="lat">Invenies aliquem—</q>
+            <figure/>
+            <p>London Printed, 1641.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:112526:2"/>
+            <pb facs="tcp:112526:2"/>
+            <head>To the Reader.</head>
+            <opener>
+               <salute>
+                  <seg rend="decorInit">R</seg>Eader,</salute>
+            </opener>
+            <p>this Sermon was more disfigured then <hi>Davids</hi> Ser<g ref="char:EOLhyphen"/>vants were by <hi>Hanun</hi> when he ſhaved off the one halfe of their beards, and cut off their Garments in the middle even to their Buttocks. <hi>2. Sam. 10. 4.</hi> So ſhaved, ſo cut, ſo ridiculcuſly mangled was this Sermon, that when I ſaw it I could not tell whether I ſhould laugh or cry. Thou knoweſt the Learning, Zeale, Patience, Apologies of the Saints have beene brought forth by the Heriſies, Vices, Tyrannies, Slanders
+<pb facs="tcp:112526:3"/>
+of the Times; ſo comes out this Lit<g ref="char:EOLhyphen"/>tle Worke ambitious onely to bee a Sa<g ref="char:EOLhyphen"/>ver, which if thy diſcretion in judgings will ſtrive to make, I ſhall be thine, or elſe hold thee like one of thoſe who condemned it: <hi>But</hi>
+            </p>
+            <closer>Id quod dicere nolo.</closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:112526:3"/>
+            <epigraph>
+               <bibl>Gen. 29. verſe. 25.</bibl>
+               <q>And it came to paſſe that in the morning behold it was <hi>Leah.</hi> And he ſaid unto <hi>Laban,</hi> What is this thou haſt done unto me? did not I ſerve with thee for Rachel? wherefore then haſt thou beguiled mee?</q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">I</seg>N the text you may obſerve a Conjunction and a diviſion: a Conjunction, here are two together that ſhould be aſunder, <hi>Iacob</hi> and <hi>Leah,</hi> And in the morning behold it was <hi>Leah.</hi> A diviſion, heere are two aſunder that ſhould be together, <hi>Iacob</hi> and <hi>Rachel:</hi> and firſt of the Conjunction as fitteſt for this ſeaſon, and opportunity; you have ſeene the quality of this conjunction, it was an ill Conjunction, a great deale of deceit in it, and where is there a Conjunction, a Marriage, but there is deceit in it, and leaſt this deceit ſhould cauſe a ſeparation, the Church bindeth them together before God and man, for better for worſe, for richer for poorer. And unleſſe this courſe were taken, how ſoone would there be a partition, their qualities being almoſt as different as heaven and hell, as the good Angels and the bad. <hi>Nabal</hi> and <hi>Abigail, Nabal</hi> a foole and churle, and of ſo baſe a diſpoſition, ſuch a man of <hi>Belial,</hi> that his own ſervants ſaid a man could not tell how to ſpeak
+<pb n="2" facs="tcp:112526:4"/>
+to him: and ſhe a kinde complementall woman ſhe fell at <hi>Davids</hi> feet, and offered to waſh the feet of his ſervants. <hi>Da<g ref="char:EOLhyphen"/>vid</hi> and <hi>Michal, Michal</hi> a ſcoffing woman, deriding <hi>David</hi> for dancing before the <hi>Arke,</hi> and he a man after Gods own heart; <hi>Socrates</hi> with <hi>Xantippe,</hi> ſhe is like a <hi>Quotidian Ague,</hi> or at the beſt ſhe is like <hi>Sauls</hi> evill ſpirit that comes too often upon him. <hi>Moſes</hi> and <hi>Zipporah,</hi> ſhe a terrible firie woman, Thou art a bloudy husband to me, ſaith ſhe, and <hi>Mo<g ref="char:EOLhyphen"/>ſes</hi> the meekeſt man above all the men of the earth. The lear<g ref="char:EOLhyphen"/>ned diſtinguiſh a fourfold deceit in Marriage, the firſt is <hi>error perſonae,</hi> when <hi>Leah</hi> is given in ſtead of <hi>Rachel,</hi> one party for another, as to <hi>Iacob,</hi> and this miſtake doth hinder and nullifie Mariage: for in Mariage there is a mutuall love and conſent One to another, but this is not where <hi>Leah</hi> is given in ſtead of <hi>Rachel,</hi> and therefore no Mariage. But will ſome ſay, is it poſſible that <hi>Iacob</hi> (who was ſo ſubtill a man) ſhould be ſo deceived, he was noted for a ſupplanter by his Brother <hi>Eſau;</hi> Is he not rightly called <hi>Iacob,</hi> for he hath ſupplanted me theſe two times of my birthright and bleſ<g ref="char:EOLhyphen"/>ſing. He was ſo grave, ſo arch a ſupplanter, that he could deceive his father although his voyce betraied him, and al<g ref="char:EOLhyphen"/>though his father told him it was the voyce of <hi>Iacob,</hi> yet he preſſed him to bleſſe him in ſtead of his brother <hi>Eſau.</hi> We ſay that man is an excellent <hi>Hocus-Pocus,</hi> excellent in leger<g ref="char:EOLhyphen"/>demaine, and ſlight of hand that can deceive one that looks upon him. But he that can deceive the hearing, and the feeling, he is far more excellent: my ſight may be decei<g ref="char:EOLhyphen"/>ved for I may take that which is Pictured to be lively and zeal, but my hearing, my feeling cannot be ſo eaſily deceiv'd. <hi>Thomas</hi> would not beleeve his ſeeing, his hearing, but when he came to feeling to lay his hand in our Saviours ſide, then he cried out, My Lord and my God. And now I ſuppoſe you are ready to ask, how this Subtil man was deceived? The de<g ref="char:EOLhyphen"/>ceit
+<pb n="3" facs="tcp:112526:4"/>
+was thus, <hi>ſolene olim ſponſae obvelata facie traduci ad torum mortalem pudoris cauſae:</hi> In thoſe dayes the Brides came veiled and Masked to their Marriage Beds, for modeſty ſake, and it was a ſigne of Modeſty to be ſilent. And thus much for the firſt deceit, which is <hi>error perſonae,</hi> a miſtake of the perſon, as this text repreſents to you. There is another deceit, which is <hi>error qualitatis,</hi> when a man takes as he thinkes he hath, one thrifty, honeſt, faire, and ſhe proves a painted whoriſh, liquoriſh ſlut. And this deceit is generall, for many women ſhew like the Egyptian Temples, very beautifull without and built, and adorned with precious ſtones, ſaith, <hi>Lucian,</hi> but if you ſeek what god they worſhip within, you ſhall finde him to be a Cat, or a Goat, or an Ape, or ſome ſuch ridiculous ill favoured creature: ſo, many women, although they be faire and beautifull without, are full of many vani<g ref="char:EOLhyphen"/>ties, fickle, unconſtant, laſcivious affections: many a man thinks he hath a ſaint, when he hath a Devill, a faire wo<g ref="char:EOLhyphen"/>man, when ſhe is a painted plaiſtered faced <hi>Ieſabel;</hi> I will not ſpeak of theſe painted tombes and ſepulchres, beauti<g ref="char:EOLhyphen"/>full without, but loathſome within, theſe Apples of Sodom, that ſeeme faire to the ſight but at the leaſt touch they fall to duſt: ſo the leaſt approaching diſcovers the corruption of theſe creatures, ſo great is their corruption it corrupts the ſweeteſt perfumes, and makes them loathſome as them<g ref="char:EOLhyphen"/>ſelves: but I will not rake any longer in this unſavory dung<g ref="char:EOLhyphen"/>hill, There are two other errours, or deceits in Marriage, as <hi>error Conditionis,</hi> and <hi>error fortun<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e:</hi> but I let them paſſe, for feare I ſhould run into the errour of being tedious to this aſſembly. I come now to the diviſion, or ſeparation, there is diſcovery of an ill Conjunction, therefore I will caſt my meditations a little upon this appearance, or diſcovery of this Conjunction, In the morning behold it was <hi>Leah.</hi> There is many a man ſleeps with <hi>Leah</hi> and thinks it is <hi>Rachel,</hi> there is many a man ſo blinded in his love &amp; affection that he is as
+<pb n="4" facs="tcp:112526:5"/>
+much or more miſtaken in the qualities of his wife then <hi>Iacob</hi> was in the perſon of <hi>Leah:</hi> many a man thinks he hath a wife that loves him, when ſhe cares not for him, and hee may think that ſhe is ſighing and ſorrowing in his abſence, when ſhe is Revelling and Dancing. You may read <hi>Pro.</hi> 7. 18. there's a woman ſpeaks to a man in her husbands ab<g ref="char:EOLhyphen"/>ſence to take his fill of love with her: he (may be) thinks, ſhe is weeping in his abſence, when ſhe is tumbling in her perfumed bed, as you may read there, verſe 17. <hi>I have perfu<g ref="char:EOLhyphen"/>med my bed with Myrrhe, Aloës, and Cynamon; I have decked it with coverings of tapestry, and fine linnen of Egypt:</hi> no queſtion this woman embraces her husband when he comes home, and he diſcovers nothing: for the way of an whoriſh woman, (as <hi>Solomon</hi> ſaith) <hi>is like the flight of a Bird in the aire, like the paſſage of a ſhip upon the ſea, like a ſerpent creep<g ref="char:EOLhyphen"/>ing into a rocke:</hi> no ſigne of the birds flying, of the ſer<g ref="char:EOLhyphen"/>pents creeping, of the ſhips paſſage.</p>
+            <p>Look upon <hi>Ioſeph</hi>'s Miſtreſſe, ſhe hath his coat to ſhew for honeſty, <hi>Ecce ſignum, Behold the coat of this Hebrew:</hi> did <hi>Sampſon</hi> thinke thoſe hands would have clipped his lockes, that had ſo often embraced his body? Some raſh men do maintain, that the reaſon why men thinke there are ſo many good women, is, becauſe they are ſo blinde and ignorant themſelves; if they had but the eyes of the Wiſe, to ſee with <hi>Solomons</hi> eyes, may be they would ſay, There was not one good of a thouſand, and he had told them one by one. And how does <hi>Solomon</hi> define a good woman? juſt as the Philo<g ref="char:EOLhyphen"/>ſopher does, <hi>Vacuum ex ſuppoſito quod detur;</hi> if there be a <hi>Vacuum,</hi> it is <hi>Locus non repletus corpore;</hi> if there be, or ſhall ever be ſuch a thing in the world as a good woman, then ſhe is this and that, ſhe is like a merchants Ship that bringeth her food from far: and what of greater value! ſhe is like to precious jewels, ſhe is like to them, but there is none like to her, none of equal value with her. <hi>Solomon</hi> ſaith, <hi>She is a
+<pb n="5" facs="tcp:112526:5"/>
+crowne to her husband, ſhe is the glory of her husband,</hi> faith Saint <hi>Paul,</hi> the very skarlet ſhe cloathes her ſervants in does ſhew her honourable, God himſelfe cals her an helper, and ſuch a helper ſhe is, that man could not have been capable of that bleſſing, <hi>Increaſe and multiply,</hi> without her, then it was <hi>The Seed of the woman that brake the Serpents head:</hi> ſhe was <hi>Deipora,</hi> ſhe brought forth a God, and here I will be<g ref="char:EOLhyphen"/>bold to ſay out of the due honour to that Sexe, that there have been women have deſerved theſe praiſes of <hi>Solomon:</hi> What was that <hi>Ester?</hi> that Cherubin of the Church un<g ref="char:EOLhyphen"/>der whoſe wings it was ſafe: the Papiſts call the Virgin <hi>Ma<g ref="char:EOLhyphen"/>ry, Regina Coeli,</hi> Queen of Heaven, and they pray to her to command our Saviour, <hi>Mater impera Filio,</hi> Mother com<g ref="char:EOLhyphen"/>mand thy Son; She hath more Churches dedicated to her than our Saviour, than all the Trinity, although she paid her Fine in milke, but He in blood, (as a great Divine ſaith.) How happy hath this Kingdom been under a Queen, there are many eyes now living that have ſeen it, and not a man but knowes it; I need not inſtance in particulars the elect Lady and her ſiſter, to whom Saint <hi>Iohn</hi> writ, <hi>Priſcilla</hi> able to informe a learned man <hi>Apollos</hi> in the Scripture: theſe women were highly honoured by that Apoſtle called from Heaven, <hi>Greete Priſcilla and Aquila, Rom. 16. 3. Aquila and Priſcilla ſalute you.</hi> 1. Cor. 16. 19. <hi>ſalute Priſcilla and Aqui<g ref="char:EOLhyphen"/>la,</hi> 2. Tim. 4. 19. <hi>Priſcilla went with him into Syria, Act.</hi> 18. 18. and thus much for the diſcovery, how long may a man ſleep before he knowes with whom, or what ſhe is he ſleeps with<g ref="char:EOLhyphen"/>all, before he knows whether it be <hi>Leah</hi> or <hi>Rachel.</hi> I am come now to the diviſion or ſeparation, and you ſee it is a high and great diviſion, <hi>Iacob</hi> begins to word it, to fall to termes with <hi>Laban</hi> (who was his Maſter) What is this thou haſt done unto me did not I ſerve with thee for <hi>Rachel?</hi> wherefore then haſt thou beguiled me? And indeed the in<g ref="char:EOLhyphen"/>conveniences
+<pb n="6" facs="tcp:112526:6"/>
+were very many that be fell <hi>Iacob</hi> by this wick<g ref="char:EOLhyphen"/>ed act of <hi>Laban:</hi> firſt of all he made his daughter a whore, and a whore is odious to the children of God, ſhe was either to be burnt, or to be ſtoned. Then the wrong done to <hi>Rachel,</hi> being deceived of her expectation, was enough to make her weepe her ſelfe blear ey'd like <hi>Leah,</hi> then he brought an in<g ref="char:EOLhyphen"/>convenience upon <hi>Iacob,</hi> having more wives then one, ſome ſay it was a ſin, ſome hold it a great Inconvenience to have one, therefore much more to have two.</p>
+            <p>The married man is intangled like a fiſh in a net; he comes merrily in, but he is mightily perplext when he can<g ref="char:EOLhyphen"/>not get out: then this action of <hi>Laban</hi> was enough to ſet the ſiſters at variance, and what joy could <hi>Iacob</hi> have when his wives were devided, it was enough to devide his heart then the deſire of rule, and je<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>louſies, and diſtruſts that one hath of the other, then the charges to m<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>intaine two, whereas <hi>Iacob</hi> if he had had but one, he wou<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d never have ſought further: God made but one for <hi>Adam,</hi> and <hi>Lamech</hi> was the firſt that had two Wives, and he had no more then two, and he was of the poſterity of <hi>Cain,</hi> and condemned by the fa<g ref="char:EOLhyphen"/>thers: and from <hi>Adam</hi> to <hi>Abraham</hi> none of the poſteri<g ref="char:EOLhyphen"/>ty of <hi>Seth</hi> had more then one wife (that we read of) they two ſhall be one fleſh, and how can that be if a man have many wives. God made onely male and female, and he took but one rib, and made of one rib, One Woman, not many. I will not ſay, it was a ſinne to have many wives, for I finde it in the Law, <hi>Deut. 21. 15. If a man have two wives, one that he loveth, and another that he hateth</hi> and there the Law ſpeakes of both their ſons as legitimate, <hi>Deut.</hi> 17. 17. the Law does forbid the King to have many wives which may draw away his minde, and Saint <hi>Auguſtine</hi> (upon that place) ſaith, <hi>permiſſum &amp; Regi habere plures uxores non plurimas,</hi> he may have more then one or two, but not many,
+<pb n="7" facs="tcp:112526:6"/>
+and <hi>Iehoiada</hi> that was a moſt holy Prieſt, took two wive<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, for King <hi>Ioaſh, 2. Chron.</hi> 24. 3. but me thinks I hear ſome ſay, <hi>Laban</hi> is unjuſtly condemned for dealing ſo ſtrictly with <hi>Iacob:</hi> was it not a great kindneſſe in <hi>Laban</hi> to take <hi>Iacob, Iacob</hi> that had coſined his Father, his Brother, and to truſt him with his flock, and then it was a kindneſſe that he gave him his daughter, and for ought I know the better of the two, the faireſt as not alwaies the beſt, Beautifull <hi>Rachel</hi> ſold <hi>Iacob</hi> for Mandrakes, whereas blear eyed <hi>Leah</hi> bought him and went out to meet him, <hi>Gen.</hi> 30. 16. Tender eyed <hi>Leah</hi> will be weeping at my misfortunes, when beautifull <hi>Rachel</hi> will be laughing with another: <hi>Abraham</hi> went in danger with beautifull <hi>Sarah,</hi> but <hi>Iacob</hi> liveth ſecure with tender eyed <hi>Leah, Rachel</hi> ſtole her fathers gods, and could ſee her Father and husband quarrel the while, when <hi>Leah</hi> was continually weeping, <hi>Rachel</hi> will be impatient if ſhe have not what ſhe deſires, give me Children or elſe I dye: and what is beauty with ſuch diſquietneſſe, but like a faire houſe haunted with ſprites, or a bed of violets with a ſerpent, but look upon <hi>Leah</hi> ſhe is more moderate, tender eyed, ſhe will be weep<g ref="char:EOLhyphen"/>ing in ſtead of ſcoulding, <hi>Rachel</hi> will be ſubject to be wan<g ref="char:EOLhyphen"/>dering like <hi>Dina, Leah</hi> is tender eyed, and the winde will hurt her, <hi>veniunt ſpectautur ut Ipſ<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> they delight to be looked upon, what are theſe many fancies in their dreſſings but ſo many ſignes to invite a man to Inne there if he pleaſe, whereas the Paſſenger elſe had gone on his way, what does the fowler whiſtle for but to catch the Bird, and ſuch is the end of their enchantments. Thus you ſee the danger of beauty, there is more danger in it then in the moſt unruly Elements, the fire hath no power of a man if he do not touch it, nor the water, but if a man look but upon beauty, it will endanger him, and it is kept with a great deale of danger and care, as the Apples of the <hi>Heſperides</hi> with a watchfull <hi>Dra<g ref="char:EOLhyphen"/>gon.</hi>
+               <pb n="8" facs="tcp:112526:7"/>
+But will ſome ſay, why doe you maintaine bleare eyed <hi>Leah</hi> againſt beautifull <hi>Rachel, Leahs</hi> fault was great in ly<g ref="char:EOLhyphen"/>ing with <hi>Iacob.</hi> To this I anſwer, fornication was held no ſin amongſt the Gentiles, and the Church of <hi>Rome</hi> holds, <hi>forni<g ref="char:EOLhyphen"/>cationem non vagam,</hi> that if a man keep conſtantly to one woman it is no ſinne: and heer let no man be harſh againſt <hi>Leah,</hi> for ſhe is tender eyed, and can weep teares enough to waſh away her ſin, teares enough to waſh our Saviours feet, alas be not harſh againſt her, ſhe is blear eyed already &amp; too much weeping will make her blinde; what if <hi>Leah</hi> have a blemiſh in the eye of her body, yet her underſtanding, the eye of her ſoule may be cleare, and beautifull, and if men con<g ref="char:EOLhyphen"/>ſider rightly, the greateſt deformity and blemiſh in a wo<g ref="char:EOLhyphen"/>man is, to be bleare eyed in her underſtanding, to miſtake a mans actions, not to ſee them clearly, if her husband be ſoci<g ref="char:EOLhyphen"/>able, then he is given to drunkennes, if ſilent, then he hath no diſcourſe in him, if merry, not that gravity that becomes him, if he put not himſelfe upon hard adventures to raiſe his fortunes, ſhe is diſquieted, and if he doe, and be foyled, then ſhe contemnes him; give me the eye of the under<g ref="char:EOLhyphen"/>ſtanding, let the other eye be as cleare as Chriſtal, if this be blemiſht there is no joy. For ought I know, this <hi>Laban,</hi> this Idolater, ſhall riſe up againſt many Chriſtians: how uſuall is it, for many a man to make faire promiſes, to promiſe a man <hi>Rachel,</hi> he ſhall have this and that, and any thing his heart can deſire if he will ſerve them, but when a man hath done all he can, they will put <hi>Leah</hi> upon him, ſome bleare eyed unhandſome thing, upon which ſo ſoon as a man can but look, he ſhall finde it to be <hi>Leah,</hi> it's plaine enough to bee ſeen, behold it was <hi>Leah,</hi> it is a hard thing for a man to get a <hi>Rachel</hi> of his Maſter, to get any thing that hath any delight or pleaſure in it, great men will not part with their <hi>Ra<g ref="char:EOLhyphen"/>chels.</hi> And ſtill I ſay, this <hi>Laban</hi> had more honeſty and
+<pb n="9" facs="tcp:112526:7"/>
+goodnes then many a Chriſtian, for although he had done <hi>Iacob</hi> a little wrong, yet he had ſo much mildnes, and Gen<g ref="char:EOLhyphen"/>tlenes, and Gentility, as he did ſuffer <hi>Iacob</hi> to ſpeak to him and to tell him of it, why haſt thou beguiled me thus. Now there are rich men, if they have done a man a diſpleaſure, will not be told of it. Nay if a poore man truſt a rich man with money, if he be not diſpoſed to give it, or is unwilling, will be angry if the poore man ask it, and doe him all the miſchiefe that may be, and what is this but like theeves that doe not onely rob a man, but binde a man too, and gag him that he ſhall not ſpeak, or like Rogues that murther a man becauſe they ſhall not betray them; God ſend me to deale with <hi>Laban,</hi> with an Idolater, I ſhall finde a man that I dare ſpeak to, I ſhall find a mate that will give me <hi>Leah,</hi> that will give me ſomething and coſin me of all.</p>
+            <p>God complained of his vinyard, that when he had taken a great deal of pains with it, it brought forth wilde grapes, <hi>ecce Labruſcus,</hi> behold wilde grapes plaine enough to be ſeen. And heer if I ſhould ſhew to the world with an <hi>Ecce,</hi> the wilde grapes, the Baſeſt actions of men, I make no queſtion but men would paſſe the ſame judgement that <hi>David</hi> did upon the rich man that tooke the poor mans Lambe. And heer let every man be exhorted not to deceive his ſervant or his kinſman or his friend, <hi>Iacob</hi> for deceiving his brother &amp; his Father, was paid in his own Coyn, &amp; enjoyed not the bleſſing twenty yeers after: <hi>Laban</hi> deceived him in his wife, <hi>Laban</hi> for deceiving <hi>Iacob,</hi> was deceived by <hi>Iacob,</hi> with the rods he laid. <hi>Rachel</hi> ſtole <hi>Labans</hi> gods for deceiving her of her husband at firſt. <hi>Iacob</hi> deceived his Father with Goats skins, and he himſelfe was deceived with the blood of a Goat. <hi>David</hi> cut off the lap of <hi>Sauls</hi> coat, and his clothes would not keep him warme in his old age. <hi>Sampſons</hi> eye luſted after a Philiſtine, and <hi>Sampſons</hi> eye was put out, <hi>Iero<g ref="char:EOLhyphen"/>boams</hi>
+               <pb n="10" facs="tcp:112526:8"/>
+hand reached to the Prophet, and that hand withered. Thus you ſee how God puniſheth ſin in the ſame act, in the ſame part, in the ſame kinde. Time will not give me leave heer to ſhew you how many a man ſleeps with <hi>Leah,</hi> with ſome ugly deformed ſin, and being blinded in ſin and dark<g ref="char:EOLhyphen"/>neſſe, thinks it is <hi>Rachel,</hi> (very beautifull) and loves it en<g ref="char:EOLhyphen"/>tirely, till the morning light of Gods grace ariſe, and then he ſees the deformity of his ſin, how bleare eyed it is, how ill-favoured, and now let every man conſider how we are all ſervants to God, and we ſerve him for <hi>Rachel,</hi> for ſome plea<g ref="char:EOLhyphen"/>ſant thing we delight in, as the Apoſtles dream't of a King<g ref="char:EOLhyphen"/>dome, if it pleaſe God to give us <hi>Leah,</hi> in ſtead of <hi>Rachel,</hi> to give us that which pleaſeth us not ſo well, let us be content with it and ſerve him on ſtill, he will at the laſt give us <hi>Ra<g ref="char:EOLhyphen"/>chel,</hi> we ſhall be married to him in whom are all joys, ſuch as eye hath not ſeen, nor eare heard, neither hath it entered into the heart of man to conceive. To which God of his mer<g ref="char:EOLhyphen"/>cy bring us: to God the Father, God the Sonne, and God the Holy Ghoſt be all honour, &amp;c.</p>
+         </div>
+         <div type="notes">
+            <head>Exceptions taken at theſe words in a Sermon.</head>
+            <p>
+               <hi>Malum non est niſi in bono,</hi> every evill is grounded upon ſome good, as in adultery, there is <hi>congreſſus viri &amp; foeminae na<g ref="char:EOLhyphen"/>turalis,</hi> there is that good of generation, increaſe of the world: In drunkenneſſe ſociety, but in pride there is no good, by this men and Angels fell.</p>
+            <p>They accuſe me for ſaying good is joyned with evill.</p>
+            <p>This ſame you may read in M. <hi>Perkins</hi> his <hi>Treatiſe of Pre<g ref="char:EOLhyphen"/>destination, p.</hi> 6. 15. There is not any abſolute evill ſaith he, becauſe their is nothing ſo evill but it hath ſome good joyn<g ref="char:EOLhyphen"/>ed therewith: and <hi>p.</hi> 616. If ſo be that evill were abſolutely evill, as good is Abſolutly good, he would in no wiſe will
+<pb n="11" facs="tcp:112526:8"/>
+the event of evil, neither ſhould there be any evill exiſtent at all: his adverſary agrees with him: read <hi>King</hi> Biſhop of London upon <hi>Ionah, lecture 18. p.</hi> 238. In ſin two things, the act, the defect, good &amp; bad, he hath if from the ſchools, as you may read there: read the ſame Lecture, <hi>p.</hi> 240. In Adultery the commination of the Adul<g ref="char:EOLhyphen"/>terers wicked, the creature good. <hi>Anſelme, de caſu Diabolt,</hi> Every creature of God is good, <hi>ens &amp; bonum convertuntur,</hi> Adultery nought: thou ſhalt not commit adultery. In drunkenneſſe, ſociety, that is good, it is not good for man to be alone, drunkenneſſe nought, wo be to them that riſe up early to follow drunkenneſſe, <hi>Iſa.</hi> 5. 11. he that will be further ſatisfied let him read <hi>Anſelme, Perkins, Arminius, Twiſs.</hi> Biſhop <hi>King</hi> in the places cited,
+<list>
+                  <item>If they had objected thus, they had ſhewed leſſe ignorance.</item>
+                  <item>If every evill have his good, why is pride excepted.</item>
+               </list>
+            </p>
+            <p>To this I anſwer, In other ſins man turnes from God either ignorantly, or out of infirmity, or his delight and pleaſure drawes him: but pride turnes from God, meerly out of a ſelf will, becauſe it will not be ſubject to God. And therfore ſay Divines, that when other vices fly from God, pride ſtands to it, and oppoſeth God; know therefore it is expreſly ſaid, <hi>Iam. 4. 6. That God reſiſts the proud, ſets himſelfe in battell aray againſt him,</hi> as the Originall ſig<g ref="char:EOLhyphen"/>nifieth, and that which is a conſequent in other ſins, is the be<g ref="char:EOLhyphen"/>ginning and chiefe in pride: for in other ſins a man does not hate God firſt, but he loves the creature firſt inordinately, and then he hates God, his love being contrary to his deſire: but pride ha<g ref="char:EOLhyphen"/>teth God at firſt, that is the chiefe, the firſt onſet. And the hating the Averſion, the Turning from God, is <hi>formalis &amp; completiva ratio peccati,</hi> ſay the ſchooles, The converſion hath it ſelfe onely <hi>materialiter in peccato.</hi> And whereas the Act of other ſins is good, The very act of this ſinne is nought <hi>cujus actus est contemptus Dei,</hi> ſay the ſchools: upon theſe reaſons I was bolde to ſay there was no good in pride, that is, no ſuch good as there is in other ſins, or no good in compariſon of the good other ſinnes have. And if I ſhould ſay abſolutely there was no good in pride,
+<pb n="12" facs="tcp:112526:9"/>
+heſe words would defend mee, <hi>cujas actus eſt contemptus Dei Gregory</hi> in his <hi>Morals</hi> does not number pride amongſt the ſeven chief and capitall ſins, but makes it the Queen and Mother of all, <hi>Ipſa vitiorum Regina ſuperbia,</hi> then he ſaith, it hath a generall in<g ref="char:EOLhyphen"/>fluence into all things; ſome are proud of their riches, ſome of Eloquence, ſome of earthly, ſome of heavenly gifts. If it be in <hi>Davids</hi> Arithmetick, in his numbring of the people it is danger<g ref="char:EOLhyphen"/>ous: If in <hi>Pauls</hi> Revelations, but God gives ſufficient grace, It is a Peſtiferous deadly diſeaſe, ſaith he, corrupting all the body: o<g ref="char:EOLhyphen"/>thers call it the ruine of all vertues. <hi>Proſper</hi> ſaith there is no ſinne without it. <hi>lib. de vita Contemplat.</hi> And in ſome kinde the ſchooles agree to it: other ſins corrupt, but the contrary vertue, this cor<g ref="char:EOLhyphen"/>rupts al, It is that dead fly in the precious ointment of all the ver<g ref="char:EOLhyphen"/>tues, and makes them ſend forth a ſtinking ſavour, from whence comes blaſphemy, the evill actions of <hi>Satan,</hi> oppoſition to God, but from pride that will not be ſubject to God, nor limited with<g ref="char:EOLhyphen"/>in his Lawes; Apoſtacy comes from pride, <hi>Eccleſ. 10. Initiu<g ref="char:cmbAbbrStroke">̄</g> ſuper<g ref="char:EOLhyphen"/>bia Apoſtatate a Deo eſt pri<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a ſuperbia pars,</hi> ſay the ſchooles: and the blaſphemy of the Devils aſcends from Pride, <hi>Pſ. 7 3. ſuperbia eorum qui te oderunt aſcendit ſemper:</hi> there blaſphemy is called pride: Pride is the beginning of all ſin, <hi>Eccleſ.</hi> 10. 14. And although it be ſaid of coveteouſneſſe. <hi>Tim.</hi> 6. 10. that it is the roote of all evill, yet it differs much from pride, becauſe coveteouſneſſe is a turning to a Mutable good, by which this ſin is nouriſhed, and fed, but pride is an Averſion from God, an Abſolute deniall of Obedience to God, and therefore it is called the beginning of ſin, <hi>quia e<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> parte averſionis Incipit ratio mali.</hi>
+            </p>
+            <p>As for that paſſage of a good-fellow, If there be any good in drunkenneſſe let us take the other Cup: I anſwere, you muſt not ſinne becauſe there is pleaſure or profit in a ſinne, both which are good: There is <hi>Eſca</hi> and <hi>Laqueus,</hi> the hony, and the ſting, take one, avoide the other. And thus you have ſeene the fall of this reeling Argument.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
